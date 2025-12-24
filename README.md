@@ -66,8 +66,7 @@ g++ -o hospital run.cpp hospital_sys.cpp doctor.cpp patient.cpp appointment.cpp 
 
 Run the compiled program:
 ```bash
-./hospital        # Linux/Mac
-hospital.exe      # Windows
+./hospital.exe      # Windows
 ```
 
 ### Menu Options
